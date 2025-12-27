@@ -1,6 +1,6 @@
 🕹️ Falling Objects Survival – Gameplay Testing Task
 
-This repository contains a 7-day gameplay testing and balance evaluation task completed as part of an internship assessment.
+This repository contains a gameplay testing and balance evaluation task completed as part of an internship assessment.
 
 The objective of this task was to design a minimal playable scenario and evaluate gameplay balance, difficulty progression, fairness, and player experience through structured testing and documentation.
 
